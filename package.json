@@ -1,4 +1,5 @@
 {
+  "homepage": "http://cefong.github.io/weatherpanel",
   "name": "weatherpanel",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +21,8 @@
     "vx": "0.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "file-loader": "^6.0.0"
+    "file-loader": "^6.0.0",
+    "gh-pages": "^2.2.0"
   }
 }
