@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2109a925636d51748eefaf4ecc4aa20",
+    "revision": "d8858f00b1b6cdcf2e99f1fc5c53f8e5",
     "url": "/weatherpanel/index.html"
   },
   {
-    "revision": "ebd8db2c587154e1a363",
+    "revision": "ec518a7a05dfd166b9dc",
     "url": "/weatherpanel/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "959c4989e5aebd2e5da3",
+    "revision": "07f2e35aeeb4926ce186",
     "url": "/weatherpanel/static/css/main.5aff7a03.chunk.css"
   },
   {
-    "revision": "ebd8db2c587154e1a363",
-    "url": "/weatherpanel/static/js/2.8703d3b7.chunk.js"
+    "revision": "ec518a7a05dfd166b9dc",
+    "url": "/weatherpanel/static/js/2.a7c1a16a.chunk.js"
   },
   {
     "revision": "4ba1a1c11c57ed15aa68008707a3d6b4",
-    "url": "/weatherpanel/static/js/2.8703d3b7.chunk.js.LICENSE.txt"
+    "url": "/weatherpanel/static/js/2.a7c1a16a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "959c4989e5aebd2e5da3",
-    "url": "/weatherpanel/static/js/main.c12f79ff.chunk.js"
+    "revision": "07f2e35aeeb4926ce186",
+    "url": "/weatherpanel/static/js/main.b797d0dc.chunk.js"
   },
   {
     "revision": "bb580aed6e9513351aae",
