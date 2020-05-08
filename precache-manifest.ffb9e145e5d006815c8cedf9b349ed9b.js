@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fd774fd18b2d8776c86e86bc8b4b666",
+    "revision": "e2109a925636d51748eefaf4ecc4aa20",
     "url": "/weatherpanel/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weatherpanel/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "0de955650366b6eeb4c5",
+    "revision": "959c4989e5aebd2e5da3",
     "url": "/weatherpanel/static/css/main.5aff7a03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weatherpanel/static/js/2.8703d3b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0de955650366b6eeb4c5",
-    "url": "/weatherpanel/static/js/main.d1e2dff4.chunk.js"
+    "revision": "959c4989e5aebd2e5da3",
+    "url": "/weatherpanel/static/js/main.c12f79ff.chunk.js"
   },
   {
     "revision": "bb580aed6e9513351aae",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weatherpanel/static/css/main.5aff7a03.chunk.css",
-    "main.js": "/weatherpanel/static/js/main.d1e2dff4.chunk.js",
-    "main.js.map": "/weatherpanel/static/js/main.d1e2dff4.chunk.js.map",
+    "main.js": "/weatherpanel/static/js/main.c12f79ff.chunk.js",
+    "main.js.map": "/weatherpanel/static/js/main.c12f79ff.chunk.js.map",
     "runtime-main.js": "/weatherpanel/static/js/runtime-main.148a4277.js",
     "runtime-main.js.map": "/weatherpanel/static/js/runtime-main.148a4277.js.map",
     "static/css/2.036b41f9.chunk.css": "/weatherpanel/static/css/2.036b41f9.chunk.css",
     "static/js/2.8703d3b7.chunk.js": "/weatherpanel/static/js/2.8703d3b7.chunk.js",
     "static/js/2.8703d3b7.chunk.js.map": "/weatherpanel/static/js/2.8703d3b7.chunk.js.map",
     "index.html": "/weatherpanel/index.html",
-    "precache-manifest.76a594e433e36679cc22b95efb11656f.js": "/weatherpanel/precache-manifest.76a594e433e36679cc22b95efb11656f.js",
+    "precache-manifest.ffb9e145e5d006815c8cedf9b349ed9b.js": "/weatherpanel/precache-manifest.ffb9e145e5d006815c8cedf9b349ed9b.js",
     "service-worker.js": "/weatherpanel/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/weatherpanel/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.5aff7a03.chunk.css.map": "/weatherpanel/static/css/main.5aff7a03.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.8703d3b7.chunk.js",
     "static/css/main.5aff7a03.chunk.css",
-    "static/js/main.d1e2dff4.chunk.js"
+    "static/js/main.c12f79ff.chunk.js"
   ]
 }
