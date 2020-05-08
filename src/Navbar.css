@@ -1,0 +1,10 @@
+.navbar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #ac3b61;
+}
+
+li {
+	color: gray;
+}
