@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f25563b88497cfab68fb0089f4717244",
+    "revision": "1d0bb0bf3dfad83b3126470bb352ede0",
     "url": "/weathery/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weathery/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "480cfdf03968d0e8eba3",
+    "revision": "d431f589c6e22a0b293f",
     "url": "/weathery/static/css/main.35b6b66c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weathery/static/js/2.a7c1a16a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "480cfdf03968d0e8eba3",
-    "url": "/weathery/static/js/main.477e918f.chunk.js"
+    "revision": "d431f589c6e22a0b293f",
+    "url": "/weathery/static/js/main.e84cec14.chunk.js"
   },
   {
     "revision": "4b84b27a9faac97a7b55",
